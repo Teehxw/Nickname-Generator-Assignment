@@ -17,5 +17,5 @@ function randomDec(low,high){
 
    //Return a random array element 
    function randomElement(anArray){
-    return anArray[randomInt(0, anArray.legnth)];
+    return anArray[randomInt(0, anArray.length)];
    }
