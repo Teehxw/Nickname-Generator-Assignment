@@ -3,7 +3,13 @@ html {
 }
 
 body {
-    color:white;
+    color: black;
+    background: rgb(255,255,255,0.8);
+    padding: 20px 100px;
+    margin: 50px auto;
+    height: 800px;
+    border-radius: 25px;
+    width: 600px;
 }
 
 div {
